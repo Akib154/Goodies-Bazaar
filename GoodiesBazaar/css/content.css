@@ -1,0 +1,43 @@
+
+.wrapper{
+
+	margin-left: 500px;
+	margin-top: 25px;
+	margin-bottom: 50px;
+}
+
+
+
+
+.header,.hero,.body,.footer{
+	background-color: white;
+	margin-bottom: 10px; 
+	font-size: 50px;
+color: white;
+}
+.box{
+	min-height: 100px;
+	background-color: white;
+		margin-bottom: 100px; 
+
+}
+.red{
+	background-color: white;
+}
+
+.col a{
+	margin-left: 75px;
+		font-family: sans-serif;
+		font-size: 49px;
+		font-weight: 600;
+		color:#5d4343;
+		cursor: pointer;
+		border: none;
+		text-decoration: none;
+}
+
+.t {
+	font-size: 20px;
+	color: orange;
+	text-align: center;
+}
