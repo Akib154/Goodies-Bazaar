@@ -1,0 +1,11 @@
+div {
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 12pt;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
